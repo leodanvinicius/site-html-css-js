@@ -1,5 +1,5 @@
 # studying and using a few about front-end
-Portifolio by Leodan V.
+Portfolio by Leodan V.
 
 ## Tasks
 O controle das tarefas desse projeto é realizado no GitHub
